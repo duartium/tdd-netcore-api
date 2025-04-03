@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# DotNet tools
+*.pdb
+*.mdb
+*.opendb
+*.log
+
+# Configuration files
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+packages/
+*.nupkg
+project.lock.json
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Test-related files (xUnit, coverage reports)
+TestResults/
+*.coverage
+*.coveragexml
+.coverage/
+coverage.opencover.xml
+
+# IDE settings
+.idea/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Rider IDE settings
+.idea/
+*.iml
+out/
+
+# Other temp files
+*.bak
+*.swp
